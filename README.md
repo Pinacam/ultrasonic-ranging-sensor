@@ -39,5 +39,3 @@ Arduino-compatible board (breadboarded on a Freenove Uno-style controller), 4-di
 
 - `src/ultrasonic_display.ino` — Arduino sketch (sensing, distance→voltage conversion, 7-segment multiplexing)
 - `images/` — real breadboard photos of the wired circuit
-- `docs/final-report.docx` — full write-up: theory, calculations, procedure, Proteus simulation, and conclusions
-- `docs/flowchart.rap` — Raptor flowchart of the program logic
